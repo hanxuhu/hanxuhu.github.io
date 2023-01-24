@@ -12,12 +12,12 @@ I am a research assistant in Prof. [Yue Zhang's](https://frcchang.github.io/) Gr
 
 Publication
 ======
-[Improving User Controlled Table-To-Text Generation Robustness](https://hanxuhu.github.io/）  
+[Improving User Controlled Table-To-Text Generation Robustness](https://hanxuhu.github.io/)  
 **Hanxu Hu**, Yunqing Liu, Zhongyi Yu and Laura Perez-Beltrachini  
 in EACL2023 Findings  
 
 
-[Meta-Learning For Multi-Modal Cross-Lingual Transfer](https://hanxuhu.github.io/）  
+[Meta-Learning For Multi-Modal Cross-Lingual Transfer](https://hanxuhu.github.io/)  
 **Hanxu Hu** and Frank Keller  
 Submitted to ACL2023  
 ([Master Thesis](https://hanxuhu.github.io/))  
