@@ -17,7 +17,7 @@ Publication and Pre-prints
 in EACL2023 Findings  
 
 
-*    **Meta-Learning For Multi-Modal Cross-Lingual Transfer**
+*    **Meta-Learning For Multi-Modal Cross-Lingual Transfer**  
 **Hanxu Hu** and Frank Keller  
 Submitted to ACL2023  
 ([Master Thesis](https://hanxuhu.github.io/files/Hanxu_dissertation.pdf))  
