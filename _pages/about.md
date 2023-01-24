@@ -10,19 +10,19 @@ redirect_from:
 
 I am a research assistant in Prof. [Yue Zhang's](https://frcchang.github.io/) Group in Westlake University. Before that, I was a MSc Student in CS at the Universtiy of Edinburgh, my master's thesis is supervised by Prof. [Frank Keller](https://homepages.inf.ed.ac.uk/keller/). My research interest is about Vision & Language, Language Generation, and Cross-Lingual Transfer. I'm looking for PhD positions currently.
 
-Publication
+Publication and Pre-prints
 ======
-[Improving User Controlled Table-To-Text Generation Robustness](https://hanxuhu.github.io/)  
+*    [Improving User Controlled Table-To-Text Generation Robustness](https://hanxuhu.github.io/)  
 **Hanxu Hu**, Yunqing Liu, Zhongyi Yu and Laura Perez-Beltrachini  
 in EACL2023 Findings  
 
 
-[Meta-Learning For Multi-Modal Cross-Lingual Transfer](https://hanxuhu.github.io/)  
+*    [Meta-Learning For Multi-Modal Cross-Lingual Transfer](https://hanxuhu.github.io/)  
 **Hanxu Hu** and Frank Keller  
 Submitted to ACL2023  
 ([Master Thesis](https://hanxuhu.github.io/))  
 
-[A Channel Mix Method For Fine-grained Cross-modal Retreval](https://hanxuhu.github.io/)  
+*    [A Channel Mix Method For Fine-grained Cross-modal Retreval](https://hanxuhu.github.io/)  
 Yang Shen, Xuhao Sun, **Hanxu Hu**, Zhipeng Chen, Xiushen Wei  
 IEEE ICME2022  
 
