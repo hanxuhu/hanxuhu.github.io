@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+Overall
+======
+You can view my CV [here](https://hanxuhu.github.io/files/HanxuHu_CV.pdf)
 
 Education
 ======
@@ -23,6 +26,4 @@ Work experience
 
 
   
-Overall
-======
-You can view my CV [here](https://hanxuhu.github.io)
+
