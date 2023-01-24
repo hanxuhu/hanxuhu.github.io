@@ -22,7 +22,7 @@ in EACL2023 Findings
 Submitted to ACL2023  
 ([Master Thesis](https://hanxuhu.github.io/files/Hanxu_dissertation.pdf))  
 
-*    [**A Channel Mix Method For Fine-grained Cross-modal Retreval**](https://hanxuhu.github.io/ICME.pdf)  
+*    [**A Channel Mix Method For Fine-grained Cross-modal Retreval**](https://hanxuhu.github.io/files/ICME.pdf)  
 Yang Shen, Xuhao Sun, **Hanxu Hu**, Zhipeng Chen, Xiushen Wei  
 IEEE ICME2022  
 
