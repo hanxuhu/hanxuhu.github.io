@@ -24,9 +24,9 @@ Honors & Awards
 *    (2019)First Class School Scholarship  (awarded to **5%**)
 
 Working Experience
-------
-*    Research Assistant at [WestlakeNLP](https://westlakenlp.netlify.app/), supervised by Prof. Yue Zhang
-*    Research Internship at [PCA Lab](http://www.patternrecognition.asia/), supervised by Dr. Xiushen Wei
+------ 
+*    Research Assistant at [WestlakeNLP](https://westlakenlp.netlify.app/), supervised by Prof. Yue Zhang, 2022 Oct - Present.
+*    Research Internship at [PCA Lab](http://www.patternrecognition.asia/), supervised by Dr. Xiushen Wei, 2021 May - 2021 Sept. 
 
 Publication and Pre-prints
 ------
