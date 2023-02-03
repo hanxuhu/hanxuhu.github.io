@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research assistant in Prof. [Yue Zhang's](https://frcchang.github.io/) Group in Westlake University. Before that, I was a MSc Student in CS at the Universtiy of Edinburgh, my master's thesis is supervised by Prof. [Frank Keller](https://homepages.inf.ed.ac.uk/keller/). My research interest is about **Vision & Language, Language Generation, and Cross-Lingual Transfer**. I'm looking for PhD positions currently. You can view my [CV](https://hanxuhu.github.io/files/HanxuHu_CV.pdf).
+I am a research assistant in [WestlakeNLP](https://westlakenlp.netlify.app/) supervised by Prof. [Yue Zhang's](https://frcchang.github.io/). Before that, I was a MSc Student in Computer Science at the Universtiy of Edinburgh, my master's thesis is about mult-modal cross-lingual transfer, and is supervised by Prof. [Frank Keller](https://homepages.inf.ed.ac.uk/keller/). My research interest is about **Vision & Language, Language Generation, and Cross-Lingual Transfer**. I'm looking for PhD positions currently. You can view my [CV](https://hanxuhu.github.io/files/HanxuHu_CV.pdf).
 
 My name in Chinese is 胡涵旭.
 
