@@ -10,6 +10,22 @@ redirect_from:
 
 I am a research assistant in Prof. [Yue Zhang's](https://frcchang.github.io/) Group in Westlake University. Before that, I was a MSc Student in CS at the Universtiy of Edinburgh, my master's thesis is supervised by Prof. [Frank Keller](https://homepages.inf.ed.ac.uk/keller/). My research interest is about Vision & Language, Language Generation, and Cross-Lingual Transfer. I'm looking for PhD positions currently.
 
+
+Education
+------
+*    MSc in Computer Science, University of Edinburgh, 2021 - 2022, **Distinction Degree**
+*    BEng in Measurement, Control Technology, and Instrument, Nanjing University of Science and Technology, 2017-2021, **rank 2/50**
+
+Honors & Awards
+------
+*    (2022)IBM Third Place Prize for Best Project in MLP Course   (**Top%2**)
+*    (2019)First Class School Scholarship  (awarded to **5%**)
+
+Working Experience
+------
+*    Research Assistant at [WestlakeNLP](https://westlakenlp.netlify.app/), supervised by Prof. Yue Zhang
+*    Research Internship at [PCA Lab](http://www.patternrecognition.asia/), supervised by Dr. Xiushen Wei
+
 Publication and Pre-prints
 ------
 *    [**Improving User Controlled Table-To-Text Generation Robustness**](https://hanxuhu.github.io/files/EACL_Hanxu.pdf)  
@@ -29,20 +45,7 @@ IEEE ICME2022
 
 
 
-Education
-------
-*    MSc in Computer Science, University of Edinburgh, 2021 - 2022, **Distinction Degree**
-*    BEng in Measurement, Control Technology, and Instrument, Nanjing University of Science and Technology, 2017-2021, **rank 2/50**
 
-Honors & Awards
-------
-*    (2022)IBM Third Place Prize for Best Project in MLP Course   (**Top%2**)
-*    (2019)First Class School Scholarship  (awarded to **5%**)
-
-Working Experience
-------
-*    Research Assistant at [WestlakeNLP](https://westlakenlp.netlify.app/), supervised by Prof. Yue Zhang
-*    Research Internship at [PCA Lab](http://www.patternrecognition.asia/), supervised by Dr. Xiushen Wei
 
 
 
