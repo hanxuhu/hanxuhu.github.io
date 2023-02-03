@@ -31,8 +31,8 @@ IEEE ICME2022
 
 Education
 ------
-*    MSc in Unversity of Edinburgh
-*    BEng in Nanjing University of Science and Technology 
+*    MSc in Computer Science, University of Edinburgh, 2021 - 2022, **Distinction Degree**
+*    BEng in Measurement, Control Technology, and Instrument, Nanjing University of Science and Technology, 2017-2021, rank 2/50
 
 Honors & Awards
 ------
@@ -41,6 +41,3 @@ Honors & Awards
 
 
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
