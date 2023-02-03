@@ -32,7 +32,7 @@ IEEE ICME2022
 Education
 ------
 *    MSc in Computer Science, University of Edinburgh, 2021 - 2022, **Distinction Degree**
-*    BEng in Measurement, Control Technology, and Instrument, Nanjing University of Science and Technology, 2017-2021, rank 2/50
+*    BEng in Measurement, Control Technology, and Instrument, Nanjing University of Science and Technology, 2017-2021, **rank 2/50**
 
 Honors & Awards
 ------
