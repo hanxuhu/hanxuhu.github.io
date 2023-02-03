@@ -39,5 +39,10 @@ Honors & Awards
 *    (2022)IBM Third Place Prize for Best Project in MLP Course   (**Top%2**)
 *    (2019)First Class School Scholarship  (awarded to **5%**)
 
+Working Experience
+------
+*    Research Assistant at [WestlakeNLP](https://westlakenlp.netlify.app/), supervised by Prof. Yue Zhang
+*    Research Internship at [PCA Lab](http://www.patternrecognition.asia/), supervised by Dr. Xiushen Wei
+
 
 
