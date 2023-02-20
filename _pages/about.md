@@ -30,7 +30,7 @@ Working Experience
 
 Publication and Pre-prints
 ------
-*    [**Improving User Controlled Table-To-Text Generation Robustness**](https://hanxuhu.github.io/files/EACL_Hanxu.pdf)  
+*    [**Improving User Controlled Table-To-Text Generation Robustness**](https://hanxuhu.github.io/files/eacl_hanxu_cr.pdf)  
 **Hanxu Hu**, Yunqing Liu, Zhongyi Yu and Laura Perez-Beltrachini  
 Accepted as EACL 2023 (Findings).
 
