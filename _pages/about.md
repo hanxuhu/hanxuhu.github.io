@@ -30,7 +30,7 @@ Working Experience
 
 Publication and Pre-prints
 ------
-*    [**Improving User Controlled Table-To-Text Generation Robustness**](https://hanxuhu.github.io/files/eacl_hanxu_cr.pdf)  
+*    [**Improving User Controlled Table-To-Text Generation Robustness**](https://arxiv.org/pdf/2302.09820.pdf)  
 **Hanxu Hu**, Yunqing Liu, Zhongyi Yu and Laura Perez-Beltrachini  
 Accepted as EACL 2023 (Findings).
 
@@ -40,7 +40,7 @@ Accepted as EACL 2023 (Findings).
 Submitted to ACL2023  
 ([Master Thesis](https://hanxuhu.github.io/files/Hanxu_dissertation.pdf))  
 
-*    [**A Channel Mix Method For Fine-grained Cross-modal Retreval**](https://hanxuhu.github.io/files/ICME.pdf)  
+*    [**A Channel Mix Method For Fine-grained Cross-modal Retreval**](https://ieeexplore.ieee.org/document/9859609)  
 Yang Shen, Xuhao Sun, **Hanxu Hu**, Zhipeng Chen, Xiushen Wei  
 Accepted as IEEE ICME2022  
 
