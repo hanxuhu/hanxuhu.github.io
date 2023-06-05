@@ -15,8 +15,8 @@ My name in Chinese is 胡涵旭.
 
 Education
 ------
-*    MSc in Computer Science, University of Edinburgh, 2021 - 2022, **Distinction Degree**
-*    BEng in Measurement, Control Technology, and Instrument, Nanjing University of Science and Technology, 2017-2021, **rank 2/50**
+*    Master in Computer Science, University of Edinburgh, 2021 - 2022, **Distinction Degree**
+*    Bachelor in Measurement, Control Technology, and Instrument, Nanjing University of Science and Technology, 2017-2021, **rank 2/50**
 
 Honors & Awards
 ------
