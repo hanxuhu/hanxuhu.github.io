@@ -30,19 +30,26 @@ Working Experience
 
 Publication and Pre-prints
 ------
+*    [**Chain-of-Symbol Prompting Elicits Planning in Large Language Models**](https://arxiv.org/pdf/2305.10276.pdf)  
+**Hanxu Hu***, Hongyuan Lu*, Huajian Zhang, Wai Lam, Yue Zhang  
+Preprint, under review.
+
+*    [**Meta-Learning For Multi-Modal Cross-Lingual Transfer**](https://arxiv.org/pdf/2305.14843.pdf)  
+**Hanxu Hu** and Frank Keller   
+Preprint, under review.  
+([Master Thesis](https://hanxuhu.github.io/files/Hanxu_dissertation.pdf))  
+
+
 *    [**Improving User Controlled Table-To-Text Generation Robustness**](https://arxiv.org/pdf/2302.09820.pdf)  
 **Hanxu Hu**, Yunqing Liu, Zhongyi Yu and Laura Perez-Beltrachini  
-Accepted as EACL 2023 (Findings).
+EACL 2023 (Findings).
 
 
-*    **Meta-Learning For Multi-Modal Cross-Lingual Transfer**  
-**Hanxu Hu** and Frank Keller  
-Submitted to ACL2023  
-([Master Thesis](https://hanxuhu.github.io/files/Hanxu_dissertation.pdf))  
+
 
 *    [**A Channel Mix Method For Fine-grained Cross-modal Retreval**](https://ieeexplore.ieee.org/document/9859609)  
 Yang Shen, Xuhao Sun, **Hanxu Hu**, Zhipeng Chen, Xiushen Wei  
-Accepted as IEEE ICME2022  
+IEEE ICME2022  
 
 
 
