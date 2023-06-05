@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a research assistant in [WestlakeNLP](https://westlakenlp.netlify.app/) supervised by Prof. [Yue Zhang](https://frcchang.github.io/). Before that, I was a MSc Student in Computer Science at the Universtiy of Edinburgh, my master's thesis is about mult-modal cross-lingual transfer, and is supervised by Prof. [Frank Keller](https://homepages.inf.ed.ac.uk/keller/). My research interest is about **Vision & Language, Language Generation, and Cross-Lingual Transfer**. You can view my [CV](https://hanxuhu.github.io/files/HanxuHu_CV.pdf).
+I am a research assistant in [WestlakeNLP](https://westlakenlp.netlify.app/) supervised by Prof. [Yue Zhang](https://frcchang.github.io/). Before that, I was a Master Student in Computer Science at the Universtiy of Edinburgh, my master's thesis is about mult-modal cross-lingual transfer, and is supervised by Prof. [Frank Keller](https://homepages.inf.ed.ac.uk/keller/). My research interest is about **Vision & Language, Language Generation, and Cross-Lingual Transfer**. You can view my [CV](https://hanxuhu.github.io/files/HanxuHu_CV.pdf).
 
 My name in Chinese is 胡涵旭.
 
 
 Education
 ------
-*    Master in Computer Science, University of Edinburgh, 2021 - 2022, **Distinction Degree**
-*    Bachelor in Measurement, Control Technology, and Instrument, Nanjing University of Science and Technology, 2017-2021, **rank 2/50**
+*    Master in Computer Science, University of Edinburgh, 2021.9 - 2022.11, **Distinction Degree**
+*    Bachelor in Measurement, Control Technology, and Instrument, Nanjing University of Science and Technology, 2017.9 - 2021.6, **rank 2/50**
 
 Honors & Awards
 ------
@@ -34,7 +34,7 @@ Publication and Pre-prints
 **Hanxu Hu<sup>*</sup>**, Hongyuan Lu<sup>*</sup>, Huajian Zhang, Wai Lam, Yue Zhang  
 Preprint, under review.
 
-*    [**Meta-Learning For Multi-Modal Cross-Lingual Transfer**](https://arxiv.org/pdf/2305.14843.pdf)  
+*    [**Meta-Learning For Vision-and-Language Cross-Lingual Transfer**](https://arxiv.org/pdf/2305.14843.pdf)  
 **Hanxu Hu** and Frank Keller   
 Preprint, under review.  
 ([Master Thesis](https://hanxuhu.github.io/files/Hanxu_dissertation.pdf))  
