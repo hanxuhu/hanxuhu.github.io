@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an MRes student supervised by Dr. [Edoardo Maria Ponti](https://ducdauge.github.io/) in University of Edinburgh I was a research assistant in [WestlakeNLP](https://westlakenlp.netlify.app/) supervised by Prof. [Yue Zhang](https://frcchang.github.io/). Before that, I was a MSc student in Computer Science at the Universtiy of Edinburgh, and my thesis is supervised by Prof. [Frank Keller](https://homepages.inf.ed.ac.uk/keller/). My current research interest is about **alignment and generalization of current Large Language Models across different tasks, languages and modalities**. My long term research goal is to make contribution to build general-purpose artificial intelligence. You can view my [CV](https://hanxuhu.github.io/files/HanxuHu_CV.pdf).
+I am an MRes student supervised by Dr. [Edoardo Maria Ponti](https://ducdauge.github.io/) in University of Edinburgh. I was a research assistant in [WestlakeNLP](https://westlakenlp.netlify.app/) supervised by Prof. [Yue Zhang](https://frcchang.github.io/). Before that, I was a MSc student in Computer Science at the Universtiy of Edinburgh, and my thesis is supervised by Prof. [Frank Keller](https://homepages.inf.ed.ac.uk/keller/). My current research interest is about **alignment and generalization of current Large Language Models across different tasks, languages and modalities**. My long term research goal is to make contribution to build general-purpose artificial intelligence. You can view my [CV](https://hanxuhu.github.io/files/HanxuHu_CV.pdf).
 
 My name in Chinese is 胡涵旭.
 
