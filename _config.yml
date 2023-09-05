@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hanxu Hu"
   avatar           : "avatar_latest.jpg"
-  bio              : "NLP Student and enthusiast"
-  location         : "HangZhou, China"
+  bio              : "A trival NLP Student in the LLM era"
+  location         : "Edinburgh"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=r9fCUd8AAAAJ"
-  email            :
+  email            : "hanxu.hu@ed.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
