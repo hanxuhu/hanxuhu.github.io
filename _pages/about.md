@@ -54,7 +54,7 @@ IEEE ICME2022
 
 
 
-<a href='https://clustrmaps.com/site/1bwkx'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=n&d=ro_Adg9UnIt17bbXt17jo3lMvJq1MsilPhT7EpuxCbI'/></a>
+<a href='https://clustrmaps.com/site/1bwkx'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=569&t=n&d=ro_Adg9UnIt17bbXt17jo3lMvJq1MsilPhT7EpuxCbI'/></a>
 
 
 
