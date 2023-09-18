@@ -21,8 +21,8 @@ Education
 
 Honors & Awards
 ------
-*    (2022)IBM Third Place Prize for Best Project in MLP Course   (**Top%2**)
-*    (2019)First Class School Scholarship  (awarded to **5%**)
+*    (2022) **IBM** Third Place Prize for Best Project in MLP Course   (**Top%2**)
+*    (2019) First Class School Scholarship  (awarded to **5%**)
 
 Working Experience
 ------ 
@@ -50,7 +50,7 @@ EACL 2023 (Findings).
 
 *    [**A Channel Mix Method For Fine-grained Cross-modal Retreval**](https://ieeexplore.ieee.org/document/9859609)  
 Yang Shen, Xuhao Sun, **Hanxu Hu**, Zhipeng Chen, Xiushen Wei  
-IEEE ICME2022  
+IEEE ICME 2022  
 
 
 
