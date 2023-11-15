@@ -39,7 +39,9 @@ Preprint, under review.
 
 *    [**Meta-Learning For Vision-and-Language Cross-Lingual Transfer**](https://arxiv.org/pdf/2305.14843.pdf)  
 **Hanxu Hu** and Frank Keller   
-3rd MRL Workshop @ EMNLP 2023 
+3rd MRL Workshop @ EMNLP 2023
+<span style="color: red;">This is red text.</span>
+
 
 
 *    [**Improving User Controlled Table-To-Text Generation Robustness**](https://arxiv.org/pdf/2302.09820.pdf)  
