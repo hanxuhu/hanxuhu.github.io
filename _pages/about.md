@@ -35,7 +35,7 @@ Publication and Pre-prints
 ------
 *    [**Chain-of-Symbol Prompting Elicits Planning in Large Language Models**](https://arxiv.org/pdf/2305.10276.pdf)  
 **Hanxu Hu<sup>*</sup>**, Hongyuan Lu<sup>*</sup>, Huajian Zhang, Wai Lam, Yue Zhang  
-Preprint, under review (get 6 6 6 6 in rebuttal period).
+Preprint, under review (get all positive scores in rebuttal period) in ICLR2024.
 
 *    [**Meta-Learning For Vision-and-Language Cross-Lingual Transfer**](https://arxiv.org/pdf/2305.14843.pdf)  
 **Hanxu Hu** and Frank Keller   
