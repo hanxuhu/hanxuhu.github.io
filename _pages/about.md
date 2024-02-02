@@ -33,7 +33,7 @@ Working Experience
 
 Publication and Pre-prints
 ------
-*    [**Fine-tuning Large Language Models with Sequential Instructions** (Comming Soon!)](https://hanxuhu.github.io/)  
+*    [**Fine-tuning Large Language Models with Sequential Instructions** (Coming Soon!)](https://hanxuhu.github.io/)  
 **Hanxu Hu<sup>*</sup>**, Patrick Chen<sup>*</sup>, Edoardo Ponti  
 Submitted to ICML 2024
 
