@@ -33,9 +33,13 @@ Working Experience
 
 Publication and Pre-prints
 ------
+*    [**Fine-tuning Large Language Models with Sequential Instructions** (Comming Soon!)](https://hanxuhu.github.io/)  
+**Hanxu Hu<sup>*</sup>**, Patrick Chen<sup>*</sup>, Edoardo Ponti  
+Submitted to ICML 2024
+
 *    [**Chain-of-Symbol Prompting Elicits Planning in Large Language Models**](https://arxiv.org/pdf/2305.10276.pdf)  
 **Hanxu Hu<sup>*</sup>**, Hongyuan Lu<sup>*</sup>, Huajian Zhang, Wai Lam, Yue Zhang  
-Preprint, under review (get all positive scores in rebuttal period) in ICLR2024.
+Preprint, plan to submit to COLM.
 
 *    [**Meta-Learning For Vision-and-Language Cross-Lingual Transfer**](https://arxiv.org/pdf/2305.14843.pdf)  
 **Hanxu Hu** and Frank Keller   
