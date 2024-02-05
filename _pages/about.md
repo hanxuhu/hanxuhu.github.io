@@ -35,7 +35,7 @@ Publication and Pre-prints
 ------
 *    [**Fine-tuning Large Language Models with Sequential Instructions** (Coming Soon!)](https://hanxuhu.github.io/)  
 **Hanxu Hu<sup>*</sup>**, Patrick Chen<sup>*</sup>, Edoardo Ponti  
-Submitted to ICML 2024
+Under Review
 
 *    [**Chain-of-Symbol Prompting Elicits Planning in Large Language Models**](https://arxiv.org/pdf/2305.10276.pdf)  
 **Hanxu Hu<sup>*</sup>**, Hongyuan Lu<sup>*</sup>, Huajian Zhang, Wai Lam, Yue Zhang  
