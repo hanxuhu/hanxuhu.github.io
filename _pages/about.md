@@ -7,7 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+![Brighton](https://hanxuhu.github.io/files/brighton.jpg "Brigton")
+photographed at Brighton, UK.
 
+---
 I am an MRes student supervised by Dr. [Edoardo Maria Ponti](https://ducdauge.github.io/) in University of Edinburgh. I was a research assistant in [WestlakeNLP](https://westlakenlp.netlify.app/) supervised by Prof. [Yue Zhang](https://frcchang.github.io/). Before that, I was a MSc student in Computer Science at the University of Edinburgh, and my thesis is supervised by Prof. [Frank Keller](https://homepages.inf.ed.ac.uk/keller/). 
 
 My current research interest is about **aligning, generalizing and grounding current Large Language Models across languages and cultures**. My long term research goal is to make contribution to build general-purpose artificial intelligence to interact better with people from different cultural backgrounds, in different languages, and different scenarios. Specifically, the generation of language models should be controllable, and the knowledge of the language models should be grounded to real world in diverse cultures and values. I have research experience about controlled text generation, multi-modal learning, and cross-lingual transfer. You can view my [CV](https://hanxuhu.github.io/files/HanxuHu_CV.pdf).
