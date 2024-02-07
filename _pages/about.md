@@ -66,6 +66,8 @@ Except doing research, I enjoy photography in my spare time, here are some of my
 
 ![Brighton](https://hanxuhu.github.io/files/brighton.jpg "Brigton")
 
+![Edinburgh](https://hanxuhu.github.io/files/edin.jpg "Edinburgh")
+
 
 ------
 
