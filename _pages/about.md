@@ -64,7 +64,7 @@ Miscellaneous
 ------
 Except doing research, I enjoy photography in my spare time, here are some of my representative work:
 
-![Fuji](/random "Fuji")
+![Brighton](https://github.com/hanxuhu/hanxuhu.github.io/blob/master/files/brighton.jpg "Brigton")
 
 
 ------
