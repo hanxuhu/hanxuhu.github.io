@@ -59,6 +59,14 @@ Yang Shen, Xuhao Sun, **Hanxu Hu**, Zhipeng Chen, Xiushen Wei
 IEEE ICME 2022  
 
 
+
+Miscellaneous
+------
+Except doing research, I enjoy photography in my spare time, here are some of my representative work:
+
+![Fuji](/random "Fuji")
+
+
 ------
 
 
