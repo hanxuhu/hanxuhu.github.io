@@ -15,7 +15,7 @@ My name in Chinese is 胡涵旭.
 Honors & Awards
 ------
 *    (2023) Best Paper Nomination Award in MRL @ EMNLP 2023
-*    (2022) **IBM** Third Place Prize for Best Project in MLP Course   (**Top%2**)
+*    (2022) IBM Award for MLP Course in UofEdinburgh  (Top%2)
 
 Working Experience
 ------ 
