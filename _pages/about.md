@@ -8,16 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an MRes student supervised by Dr. [Edoardo Maria Ponti](https://ducdauge.github.io/) in University of Edinburgh. I was a research assistant in [WestlakeNLP](https://westlakenlp.netlify.app/) supervised by Prof. [Yue Zhang](https://frcchang.github.io/). Before that, I was a MSc student in Computer Science at the University of Edinburgh, and my thesis is supervised by Prof. [Frank Keller](https://homepages.inf.ed.ac.uk/keller/). 
+I am an MRes student supervised by Dr. [Edoardo Maria Ponti](https://ducdauge.github.io/) in University of Edinburgh. I was a research assistant in [WestlakeNLP](https://westlakenlp.netlify.app/) supervised by Prof. [Yue Zhang](https://frcchang.github.io/).
 
 My name in Chinese is 胡涵旭.
-
-
-Education
-------
-*    MRes in ILCC, University of Edinburgh, 2023.9 - 2024.9 (expected)
-*    MSc in Computer Science, University of Edinburgh, 2021.9 - 2022.11, **Distinction Degree**
-*    Bachelor in Measurement, Control Technology, and Instrument, Nanjing University of Science and Technology, 2017.9 - 2021.6, **rank 2/50**
 
 Honors & Awards
 ------
@@ -56,6 +49,9 @@ EACL 2023 (Findings).
 Yang Shen, Xuhao Sun, **Hanxu Hu**, Zhipeng Chen, Xiushen Wei  
 IEEE ICME 2022  
 
+Acknowledgement
+------
+I am lucky to meet many enthusiastic, intelligent, and hardworking peers, such as Simon Yu@NEU, [Chenmien Tan](https://chenmientan.github.io/)@Edinburgh, [Pinzhen Chen](https://pinzhenchen.github.io/)@Edinburgh, [Wenhao Zhu](https://owennju.github.io/)@NJU, Hongyuan Lu@CUHK, Huajian Zhang@Westlake, I learnt a lot when working with them.
 
 
 Miscellaneous
@@ -64,7 +60,6 @@ Except doing research, I enjoy photography in my spare time, here are some of my
 
 ![Brighton](https://hanxuhu.github.io/files/brighton.jpg "Brigton")
 
-![Edinburgh](https://hanxuhu.github.io/files/edin.jpg "Edinburgh")
 
 
 ------
