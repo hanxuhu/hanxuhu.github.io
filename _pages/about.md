@@ -19,8 +19,7 @@ Honors & Awards
 
 Working Experience
 ------ 
-*    Research Assistant at [WestlakeNLP](https://westlakenlp.netlify.app/), supervised by Prof. Yue Zhang, 2022 Oct - Present.
-*    Research Internship at [PCA Lab](http://www.patternrecognition.asia/), supervised by Dr. Xiushen Wei, 2021 May - 2021 Sept. 
+*    Research Assistant at [WestlakeNLP](https://westlakenlp.netlify.app/), supervised by Prof. Yue Zhang, 2022 Oct - 2023 June.
 
 Publication and Pre-prints
 ------
