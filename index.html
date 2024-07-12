@@ -25,10 +25,11 @@
         }
         .header .intro {
             max-width: 600px;
-            font-size: 0.9em;
+            font-size: 1.1em;
         }
         .header h1 {
             margin: 0 0 10px;
+            text-align: center;
         }
         .header p {
             margin: 10px 0;
@@ -36,11 +37,12 @@
         .links {
             margin: 20px 0;
             text-align: center;
+            font-size: 1.2em;
         }
         .links a {
             margin: 0 10px;
             text-decoration: none;
-            color: #1a0dab;
+            color: #3399ff;
         }
         .research {
             margin-bottom: 30px;
@@ -55,6 +57,7 @@
             margin-bottom: 20px;
             display: flex;
             align-items: center;
+            font-size: 0.9em;
         }
         .research-item img {
             max-width: 100px;
@@ -65,7 +68,7 @@
         .research-item h3 {
             margin: 10px 0;
             font-size: 1.2em;
-            color: #1a0dab;
+            color: #3399ff;
         }
         .research-item p {
             margin: 5px 0;
@@ -78,8 +81,11 @@
         }
         .links a {
             text-decoration: none;
-            color: #1a0dab;
+            color: #3399ff;
             margin-right: 10px;
+        }
+        .highlight-red {
+            color: #FF0000;
         }
     </style>
 </head>
@@ -87,11 +93,12 @@
     <div class="header">
         <div class="intro">
             <h1>Hanxu Hu</h1>
-            <p>I'm an incoming PhD student co-supervised by Prof Rico Sennrich and Prof Ivan Titov at University of Zurich, and work closely with Dr. Jannis Vamvas.</p>
-            <p>I am interested in long-context reasoning, and interpretability of modern LMs.</p>
-            <p>Previously, I was a master student in University of Edinburgh, working with Prof. Edoardo Ponti.</p>
+            <br>
+            <p>I'm an incoming PhD student at University of Zurich co-supervised by Prof <a href="https://www.cl.uzh.ch/de/about-us/people/team/compling/sennrich.html" style="color:#3399ff;">Rico Sennrich</a> and Prof. <a href="http://ivan-titov.org/" style="color:#3399ff;">Ivan Titov</a>, and will work closely with Dr. Jannis Vamvas.</p>
+            <p>Previously, I have done research about instruction tuning, in-context learning, and cross-lingual transfer. </p> 
+            <p>Currently, I am interested in scalable methods of interpretability which can be used in alignment and long-context reasoning of modern LMs.</p>
         </div>
-        <img src="https://via.placeholder.com/250" alt="Hanxu Hu">
+        <img src="images/profile.jpg" alt="Hanxu Hu">
     </div>
     <div class="links">
         <a href="mailto:huhanxu1233@gmail.com">Email</a> / 
@@ -99,18 +106,35 @@
         <a href="https://x.com/huhanxu1">Twitter</a>
     </div>
     <div class="research">
-        <h2>Research</h2>
-        <p>A brief introduction about your research interests and directions.</p>
+        <h2>Selected Papers</h2>
+        <p>You can find all papers in my google scholar page.</p>
         <div class="research-item">
-            <img src="file-W636lzEvrvxDvoj5u68gmAgZ" alt="Research Image Description">
+            <img src="images/sit_image.jpg" alt="">
             <div>
                 <h3>Fine-tuning Large Language Models with Sequential Instructions</h3>
-                <p class="author-list">Hanxu Hu, Simon Yu, Pinzhen Chen, Edoardo M. Ponti</p>
-                <p><em>arXiv, 2024</em></p>
-                <p><a href="https://arxiv.org/abs/2403.07794">Project Page</a> / <a href="https://arxiv.org/abs/2403.07794">arXiv</a></p>
+                <p class="author-list"><strong>Hanxu Hu</strong>*, Simon Yu*, Pinzhen Chen*, Edoardo M. Ponti</p>
+                <p><em>Preprint, 2024</em></p>
+                <p><a href="https://seqit.github.io/">Project Page</a> / <a href="https://arxiv.org/abs/2403.07794">arXiv</a></p>
+            </div>
+        </div>
+        <div class="research-item">
+            <img src="images/cos_image.jpg" alt="">
+            <div>
+                <h3>Chain-of-Symbol Prompting For Spatial Reasoning in Large Language Models</h3>
+                <p class="author-list"><strong>Hanxu Hu</strong>*, Hongyuan Lu*, Huajian Zhang, Yun-Ze Song, and Yue Zhang</p>
+                <p><em>COLM 2024</em></p>
+                <p><a href="https://github.com/hanxuhu/chain-of-symbol-planning">Code</a> / <a href="https://arxiv.org/pdf/2305.10276">arXiv</a></p>
+            </div>
+        </div>
+        <div class="research-item">
+            <img src="images/meta_image.jpg" alt="">
+            <div>
+                <h3>Meta-Learning For Multi-Modal Cross-lingual Transfer</h3>
+                <p class="author-list"><strong>Hanxu Hu</strong> and Frank Keller</p>
+                <p><em>MRL at EMNLP 2023 <span class="highlight-red"><strong>(Best Paper Nomination)</strong></span></em></p>
+                <p><a href="">Code</a> / <a href="https://arxiv.org/abs/2305.14843">arXiv</a></p>
             </div>
         </div>
     </div>
 </body>
 </html>
-
