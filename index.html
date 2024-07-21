@@ -16,16 +16,18 @@
             align-items: center;
             justify-content: center;
             margin-bottom: 50px;
+            flex-wrap: wrap;
         }
         .header img {
             border-radius: 50%;
             width: 300px;
             height: 300px;
-            margin-left: 20px;
+            margin: 20px; /* margin-left: 20px; */
         }
         .header .intro {
             max-width: 600px;
             font-size: 1.1em;
+            text-align: center;
         }
         .header h1 {
             margin: 0 0 10px;
@@ -58,6 +60,7 @@
             display: flex;
             align-items: center;
             font-size: 0.9em;
+            flex-wrap: wrap;
         }
         .research-item img {
             max-width: 100px;
@@ -87,6 +90,23 @@
         .highlight-red {
             color: #FF0000;
         }
+        @media (max-width: 768px) {
+            .header {
+                flex-direction: column;
+            }
+            .header img {
+                width: 150px;
+                height: 150px;
+            }
+            .research-item {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            .research-item img {
+                margin-bottom: 10px;
+                margin-right: 0;
+            }
+        }
     </style>
 </head>
 <body>
@@ -95,7 +115,7 @@
             <h1>Hanxu Hu</h1>
             <br>
             <p>I'm an incoming PhD student at University of Zurich co-supervised by Prof <a href="https://www.cl.uzh.ch/de/about-us/people/team/compling/sennrich.html" style="color:#3399ff;">Rico Sennrich</a> and Prof. <a href="http://ivan-titov.org/" style="color:#3399ff;">Ivan Titov</a> at University of Edinburgh, and will work closely with Dr. Jannis Vamvas.</p>
-            <p>Previously, I was a member of EdinburghNLP and WestlakeNLP, I have done research about instruction tuning, in-context learning, and cross-lingual transfer. </p> 
+            <p>I'm a research intern at Shanghai AI Lab and a member of EdinburghNLP and WestlakeNLP. I have done research about instruction tuning, in-context learning, and cross-lingual transfer. </p> 
             <p>Currently, I am interested in scalable methods of interpretability which can be used in alignment and long-context reasoning of modern LMs. (e.g. Scalable Oversight, Mechanistic Interpretability)</p>
         </div>
         <img src="images/profile.jpg" alt="Hanxu Hu">
